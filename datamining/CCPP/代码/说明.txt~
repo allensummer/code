@@ -1,0 +1,4 @@
+test.py中的代码是用来绘制图标
+descrip.py中代码，得到数据的基本描述
+svr.py中为核脊函数与SVR函数的拟合
+error.py中为最小二乘法、脊函数、loss函数拟合
